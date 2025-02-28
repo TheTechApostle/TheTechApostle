@@ -4,7 +4,7 @@
 I'm a **Data Analyst** and **Software Developer** with over 4 years of experience in software development. Passionate about **teaching, coding, and impacting lives**, I have trained over 50 students globally in **Data Analysis**.  
 
 ## 💻 Tech Stack  
-- **Programming:** Python, JavaScript, PHP  
+- **Programming:** Python, JavaScript, PHP, Nodejs  
 - **Frameworks:** Django, React, Flutter  
 - **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, scikit-learn  
 - **Databases:** MySQL, PostgreSQL, MariaDB  
