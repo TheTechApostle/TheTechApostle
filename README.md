@@ -5,8 +5,9 @@ I'm a **Data Analyst** and **Software Developer** with over 4 years of experienc
 
 ## 💻 Tech Stack  
 - **Programming:** Python, JavaScript, PHP, Nodejs  
-- **Frameworks:** Django, React, Flutter  
-- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, scikit-learn  
+- **Frameworks:** Django, React,  
+- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
+- **Data Analysis:** Advance Excel, PowerBI, Tableau, SQL
 - **Databases:** MySQL, PostgreSQL, MariaDB  
 - **Other Tools:** Git, Material UI, Bootstrap  
 
