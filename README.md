@@ -25,7 +25,7 @@ I'm a **Data Analyst** and **Software Developer** with over 4 years of experienc
 - 📅 **Student Repository and Recommendation System** - Using Django, Sentence Transformers, etc**  
 
 ## 📢 Connect With Me  
-- **GitHub:** [github.com/your-username](https://github.com/your-username)  
+- **GitHub:** [github.com/your-username](https://github.com/TheTechApostle)  
 - **LinkedIn:** [linkedin.com/in/basseywonderpaul](https://linkedin.com/in/basseywonderpaul)  
 
 
