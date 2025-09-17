@@ -20,12 +20,13 @@ I'm a **Data Analyst** and **Software Developer** with over 4 years of experienc
 
 ## 📚 Recent Projects  
 - 🏫 **Career Recommender System** – Helping students choose the right career path using **Machine Learning & Django**  
-- 💬 **Real-time Chat Application** – Built with Django & Bootstrap, featuring **file uploads and emojis**  
-- 📅 **Scheduling & Calendar System** – A **UI calendar app** with event scheduling and database integration  
+- 💬*Real Estate Project*
+- - 💬*Real Time fight detection system*
+- 📅 **Student Repository and Recommendation System** - Using Django, Sentence Transformers, etc**  
 
 ## 📢 Connect With Me  
 - **GitHub:** [github.com/your-username](https://github.com/your-username)  
 - **LinkedIn:** [linkedin.com/in/basseywonderpaul](https://linkedin.com/in/basseywonderpaul)  
-- **Twitter:** [twitter.com/your-handle](https://twitter.com/your-handle)  
+
 
 Let's build something amazing! 🚀✨
